@@ -1,4 +1,4 @@
-**Summary: Modeling and Control of Sparus AUV**
+**Modeling and Control of Sparus AUV**
 
 This project focuses on the modeling, analysis, and control of the Sparus Autonomous Underwater Vehicle (AUV), guided by Prof. Mathieu Richier at the University of Toulon. Using MATLAB and Simulink, it explores the vehicle's physical properties, hydrodynamics, and control mechanisms. Key objectives include:
 
